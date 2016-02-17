@@ -7,3 +7,6 @@ corresponding revision:
 handin/someproject not found
 corresponding revision: 
 e6ea060dbf2176b6e6c72b46879c6657c2940db6
+handin/someproject not found
+corresponding revision: 
+1047fa5c58beef31ea56a69eac270095ab2f7260
