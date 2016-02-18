@@ -40,3 +40,6 @@ corresponding revision:
 handin/exercise478 not found
 corresponding revision: 
 b208ee6caa3177f4e13c712a3fa854fab1415fbd
+handin/exercise478 not found
+corresponding revision: 
+3f72df15b5b12b67533d91fd42909cd8b85252d2
