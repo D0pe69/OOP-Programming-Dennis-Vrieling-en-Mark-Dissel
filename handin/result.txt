@@ -55,3 +55,6 @@ e124d5a48e98f9dd7f1243f9a20283c1a6569787
 handin/exercise478 not found
 corresponding revision: 
 1de623667734d28581a3a4a2fd89988b8dea9baf
+handin/exercise478 not found
+corresponding revision: 
+f71b6ab987d80c58b97c496ba6d1cc1a0dba4e91
