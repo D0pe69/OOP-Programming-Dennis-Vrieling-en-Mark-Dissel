@@ -69,9 +69,10 @@ public class LogAnalyzer
                 hoogste = uren;
                 
             }
-        }
+        }++
         System.out.println(hoogste);
-    }
+
+        }
     
      public void busiest2Hours()
     {
