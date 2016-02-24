@@ -1,0 +1,12 @@
+handin/someproject not found
+corresponding revision: 
+HEAD
+handin/someproject not found
+corresponding revision: 
+9b82e57f26a00df6d496a3d1c98573056e9fcc66
+handin/someproject not found
+corresponding revision: 
+e6ea060dbf2176b6e6c72b46879c6657c2940db6
+handin/someproject not found
+corresponding revision: 
+1047fa5c58beef31ea56a69eac270095ab2f7260
